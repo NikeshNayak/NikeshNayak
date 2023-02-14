@@ -1,6 +1,6 @@
 
 ##  Expert Mobile App Developer  
-###     Android | iOS | Flutter
+###     ✨Android | iOS | Flutter✨
 
 <!-- 
 **NikeshNayak/NikeshNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
