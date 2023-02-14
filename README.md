@@ -1,6 +1,6 @@
 ##  Expert Mobile App Developer | Android | iOS | Flutter
 
-<!--
+
 **NikeshNayak/NikeshNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 🥇 3+ Years as a Full Stack Flutter developer
+
 🥇 5+ Years as a Android Developer
 
 Creating and Developing iOS/Android apps is my work and also very much skilful in shipping them to App Store and Play Store. I have a record of working with multiple clients using native and hybrid tech stacks as well.
