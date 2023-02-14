@@ -23,23 +23,37 @@ Creating and Developing iOS/Android apps is my work and also very much skilful i
 📌 SKILLS & EXPERTISE:
 
 ➳ Flutter Project Architecture : MVVM, MVC & TDD
+
 ➳ Flutter State Management: Provider, BLoC & Getx
+
 ➳ REST APIs integration (JSON Parsing)
+
 ➳ Google AdMob Integration
+
 ➳ Payment SDK Integration: In-App purchase, PayPal, Stripe, Razorpay, etc.
+
 ➳ Socket.io for real-time communication in-app
+
 ➳ Android & iOS Device and Tablet Design (Material & Modern UI Design for mobile apps)
+
 ➳ For Backend APIs : NodeJS, MySQL or MongoDB
+
 ➳ Social Media Integration: Google, Facebook, Twitter, Microsoft Live account, etc.
+
 ➳ Google Maps APIs & Services: Maps API, Geolocation API, Geocoding API, Directions API, Distance Matrix API, Places API
+
 ➳ Firebase Services: Authentication, Realtime or Firestore Database, Storage, Cloud Functions, Remote Config, Cloud Messaging (Push Notifications), Analytics, Crashlytics
 
 📌 TECHNOLOGY STACK:
 
 ➳ Flutter (Dart)
+
 ➳ Android (Java, Kotlin, Android Studio)
+
 ➳ iOS / XCode / Swift
+
 ➳ NodeJS
+
 ➳ MySQL and MongoDB
 
 Please feel free to contact me to get top-notch services and high-quality work.
